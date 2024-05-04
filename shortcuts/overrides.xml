@@ -151,6 +151,7 @@
         </node>
         <node label="32029">
             <content>common</content>
+			<shortcut label="1036" grouping="common" thumbnail="special://skin/extras/icons/favourites.png" icon="special://skin/extras/icons/favourites.png">ActivateWindow(Favouritesbrowser)</shortcut>			
         </node>
         <node label="32030">
             <content>video</content>

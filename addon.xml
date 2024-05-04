@@ -1,6 +1,6 @@
 <addon id="skin.eminence.2" name="Eminence" provider-name="jurialmunkey" version="4.1.22">
     <requires>
-        <import addon="xbmc.gui" version="5.15.0" />
+        <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts" version="1.0.0" />
         <import addon="plugin.video.themoviedb.helper" version="4.4.0" />
         <import addon="script.image.resource.select" version="0.0.5" />
