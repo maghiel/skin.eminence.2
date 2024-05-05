@@ -1,4 +1,4 @@
-= Description = 
+# Description
 This fork was created to provide compatibility for Eminence with Kodi 21 Omega. I Love Eminence.
 I started off with the work found at https://forum.kodi.tv/archive/index.php?thread-375914-2.html and improved on it a little. Credits to the people there.
 All changes in this fork will be sent as pull request upstream.
