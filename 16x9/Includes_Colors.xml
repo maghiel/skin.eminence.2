@@ -159,6 +159,11 @@
             <label>ffe55e35</label>
             <icon>special://skin/extras/colors/ffe55e35.png</icon>
         </item>
+	<!-- as requested https://github.com/maghiel/skin.eminence.2/issues/9 -->
+	<item>
+	    <label>ff444444</label>
+	    <icon>special://skin/extras/colors/ff444444.png</icon>
+        </item>
     </include>
 
 
